@@ -2,7 +2,7 @@
 
 A quantitative risk modeling framework designed to simulate and hedge commodity price exposures for automotive manufacturing.
 
-## 🚀 Overview
+##  Overview
 
 This project quantifies the financial risk exposure of a major automotive manufacturer (Nissan Motor Corp.) to volatility in raw material inputs (Steel, Aluminum, Copper, etc.). 
 
@@ -15,7 +15,7 @@ It implements a **Monte Carlo simulation engine** using **Correlated Geometric B
 * **Tail Risk Modeling:** Fits a Generalized Pareto Distribution (GPD) via EVT to estimate 1-in-200 year loss events (99.5% VaR).
 * **Hedging Strategy:** Models the P&L impact of a 60% strategic hedging program on key commodities.
 
-## 🛠️ Project Structure
+##  Project Structure
 
 The codebase is organized as a modular Python package:
 
