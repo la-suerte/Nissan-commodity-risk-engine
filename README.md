@@ -1,3 +1,5 @@
+> **⚠️ DISCLAIMER:** This project is a theoretical risk modeling demonstration developed for educational and portfolio purposes only. All data, parameters, and financial figures used herein are simulated based on public industry norms and **do not** reflect actual proprietary data, procurement strategies, or financial positions of Nissan Motor Corporation. This repository is not affiliated with, endorsed by, or legally binding upon Nissan Motor Corporation.
+
 # Nissan Commodity Risk Engine
 
 A quantitative risk modeling framework designed to simulate and hedge commodity price exposures for automotive manufacturing.
